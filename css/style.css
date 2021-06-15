@@ -771,11 +771,27 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact {
   background: #f7f7f7;
   padding: 80px 0;
+  text-align: center;
 }
 
 #contact .info {
+
   color: #333333;
+ 
+  align-content: center;
+
+
 }
+#contact .info img {
+  overflow: hidden;
+display: inline-block;
+  margin-left: 5%;
+  margin-right: 5%;
+ 
+
+  
+}
+
 
 #contact .info i {
   font-size: 32px;
